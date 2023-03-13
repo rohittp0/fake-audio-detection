@@ -8,7 +8,7 @@ E_1000006.wav,spoof
 E_1000007.wav,spoof
 E_1000008.wav,spoof
 E_1000009.wav,spoof
-E_1000010.wav,genuine
+E_1000010.wav,bonafide
 E_1000011.wav,spoof
 E_1000012.wav,spoof
 E_1000013.wav,spoof
@@ -16,7 +16,7 @@ E_1000014.wav,spoof
 E_1000015.wav,spoof
 E_1000016.wav,spoof
 E_1000017.wav,spoof
-E_1000018.wav,genuine
+E_1000018.wav,bonafide
 E_1000019.wav,spoof
 E_1000020.wav,spoof
 E_1000021.wav,spoof
@@ -71,7 +71,7 @@ E_1000070.wav,spoof
 E_1000071.wav,spoof
 E_1000072.wav,spoof
 E_1000073.wav,spoof
-E_1000074.wav,genuine
+E_1000074.wav,bonafide
 E_1000075.wav,spoof
 E_1000076.wav,spoof
 E_1000077.wav,spoof
@@ -99,7 +99,7 @@ E_1000098.wav,spoof
 E_1000099.wav,spoof
 E_1000100.wav,spoof
 E_1000101.wav,spoof
-E_1000102.wav,genuine
+E_1000102.wav,bonafide
 E_1000103.wav,spoof
 E_1000104.wav,spoof
 E_1000105.wav,spoof
@@ -119,7 +119,7 @@ E_1000119.wav,spoof
 E_1000120.wav,spoof
 E_1000121.wav,spoof
 E_1000122.wav,spoof
-E_1000123.wav,genuine
+E_1000123.wav,bonafide
 E_1000124.wav,spoof
 E_1000125.wav,spoof
 E_1000126.wav,spoof
@@ -146,7 +146,7 @@ E_1000147.wav,spoof
 E_1000148.wav,spoof
 E_1000149.wav,spoof
 E_1000150.wav,spoof
-E_1000151.wav,genuine
+E_1000151.wav,bonafide
 E_1000152.wav,spoof
 E_1000153.wav,spoof
 E_1000154.wav,spoof
@@ -156,7 +156,7 @@ E_1000157.wav,spoof
 E_1000158.wav,spoof
 E_1000159.wav,spoof
 E_1000160.wav,spoof
-E_1000161.wav,genuine
+E_1000161.wav,bonafide
 E_1000162.wav,spoof
 E_1000163.wav,spoof
 E_1000164.wav,spoof
@@ -172,7 +172,7 @@ E_1000174.wav,spoof
 E_1000176.wav,spoof
 E_1000177.wav,spoof
 E_1000178.wav,spoof
-E_1000179.wav,genuine
+E_1000179.wav,bonafide
 E_1000180.wav,spoof
 E_1000181.wav,spoof
 E_1000182.wav,spoof
@@ -185,7 +185,7 @@ E_1000188.wav,spoof
 E_1000189.wav,spoof
 E_1000190.wav,spoof
 E_1000191.wav,spoof
-E_1000192.wav,genuine
+E_1000192.wav,bonafide
 E_1000193.wav,spoof
 E_1000194.wav,spoof
 E_1000195.wav,spoof
@@ -210,10 +210,10 @@ E_1000213.wav,spoof
 E_1000214.wav,spoof
 E_1000215.wav,spoof
 E_1000216.wav,spoof
-E_1000217.wav,genuine
+E_1000217.wav,bonafide
 E_1000218.wav,spoof
 E_1000219.wav,spoof
-E_1000220.wav,genuine
+E_1000220.wav,bonafide
 E_1000221.wav,spoof
 E_1000222.wav,spoof
 E_1000223.wav,spoof
@@ -237,7 +237,7 @@ E_1000241.wav,spoof
 E_1000242.wav,spoof
 E_1000243.wav,spoof
 E_1000244.wav,spoof
-E_1000245.wav,genuine
+E_1000245.wav,bonafide
 E_1000246.wav,spoof
 E_1000247.wav,spoof
 E_1000248.wav,spoof
@@ -250,7 +250,7 @@ E_1000254.wav,spoof
 E_1000255.wav,spoof
 E_1000256.wav,spoof
 E_1000257.wav,spoof
-E_1000258.wav,genuine
+E_1000258.wav,bonafide
 E_1000259.wav,spoof
 E_1000260.wav,spoof
 E_1000261.wav,spoof
@@ -265,12 +265,12 @@ E_1000269.wav,spoof
 E_1000270.wav,spoof
 E_1000271.wav,spoof
 E_1000272.wav,spoof
-E_1000273.wav,genuine
+E_1000273.wav,bonafide
 E_1000274.wav,spoof
 E_1000275.wav,spoof
 E_1000276.wav,spoof
 E_1000278.wav,spoof
-E_1000279.wav,genuine
+E_1000279.wav,bonafide
 E_1000280.wav,spoof
 E_1000281.wav,spoof
 E_1000282.wav,spoof
@@ -281,7 +281,7 @@ E_1000286.wav,spoof
 E_1000287.wav,spoof
 E_1000288.wav,spoof
 E_1000289.wav,spoof
-E_1000290.wav,genuine
+E_1000290.wav,bonafide
 E_1000291.wav,spoof
 E_1000292.wav,spoof
 E_1000293.wav,spoof
@@ -294,5 +294,5 @@ E_1000299.wav,spoof
 E_1000300.wav,spoof
 E_1000301.wav,spoof
 E_1000302.wav,spoof
-E_1000303.wav,genuine
-E_1000304.wav,genuine
+E_1000303.wav,bonafide
+E_1000304.wav,bonafide
